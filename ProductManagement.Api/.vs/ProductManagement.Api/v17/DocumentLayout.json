@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\monis\\source\\repos\\ProductManagement.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80B79DC0-94B0-4800-A2BC-85FC05F8EC75}|ProductManagement.DataAccess\\ProductManagement.DataAccess.csproj|c:\\users\\monis\\source\\repos\\productmanagement.api\\productmanagement.dataaccess\\models\\productmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B79DC0-94B0-4800-A2BC-85FC05F8EC75}|ProductManagement.DataAccess\\ProductManagement.DataAccess.csproj|solutionrelative:productmanagement.dataaccess\\models\\productmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B79DC0-94B0-4800-A2BC-85FC05F8EC75}|ProductManagement.DataAccess\\ProductManagement.DataAccess.csproj|c:\\users\\monis\\source\\repos\\productmanagement.api\\productmanagement.dataaccess\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B79DC0-94B0-4800-A2BC-85FC05F8EC75}|ProductManagement.DataAccess\\ProductManagement.DataAccess.csproj|solutionrelative:productmanagement.dataaccess\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C3CBA4-2BBC-4B40-937E-F526CA3BC811}|ProductManagement.Api\\ProductManagement.Api.csproj|c:\\users\\monis\\source\\repos\\productmanagement.api\\productmanagement.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C3CBA4-2BBC-4B40-937E-F526CA3BC811}|ProductManagement.Api\\ProductManagement.Api.csproj|solutionrelative:productmanagement.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C3CBA4-2BBC-4B40-937E-F526CA3BC811}|ProductManagement.Api\\ProductManagement.Api.csproj|c:\\users\\monis\\source\\repos\\productmanagement.api\\productmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C3CBA4-2BBC-4B40-937E-F526CA3BC811}|ProductManagement.Api\\ProductManagement.Api.csproj|solutionrelative:productmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C3CBA4-2BBC-4B40-937E-F526CA3BC811}|ProductManagement.Api\\ProductManagement.Api.csproj|c:\\users\\monis\\source\\repos\\productmanagement.api\\productmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{97C3CBA4-2BBC-4B40-937E-F526CA3BC811}|ProductManagement.Api\\ProductManagement.Api.csproj|solutionrelative:productmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C3CBA4-2BBC-4B40-937E-F526CA3BC811}|ProductManagement.Api\\ProductManagement.Api.csproj|c:\\users\\monis\\source\\repos\\productmanagement.api\\productmanagement.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{97C3CBA4-2BBC-4B40-937E-F526CA3BC811}|ProductManagement.Api\\ProductManagement.Api.csproj|solutionrelative:productmanagement.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DD1A8A-86EC-406A-9EFF-A2C71FAE478A}|ProductManagement.Services\\ProductManagement.Services.csproj|c:\\users\\monis\\source\\repos\\productmanagement.api\\productmanagement.services\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72DD1A8A-86EC-406A-9EFF-A2C71FAE478A}|ProductManagement.Services\\ProductManagement.Services.csproj|solutionrelative:productmanagement.services\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DD1A8A-86EC-406A-9EFF-A2C71FAE478A}|ProductManagement.Services\\ProductManagement.Services.csproj|c:\\users\\monis\\source\\repos\\productmanagement.api\\productmanagement.services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72DD1A8A-86EC-406A-9EFF-A2C71FAE478A}|ProductManagement.Services\\ProductManagement.Services.csproj|solutionrelative:productmanagement.services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C3CBA4-2BBC-4B40-937E-F526CA3BC811}|ProductManagement.Api\\ProductManagement.Api.csproj|c:\\users\\monis\\source\\repos\\productmanagement.api\\productmanagement.api\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C3CBA4-2BBC-4B40-937E-F526CA3BC811}|ProductManagement.Api\\ProductManagement.Api.csproj|solutionrelative:productmanagement.api\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B79DC0-94B0-4800-A2BC-85FC05F8EC75}|ProductManagement.DataAccess\\ProductManagement.DataAccess.csproj|c:\\users\\monis\\source\\repos\\productmanagement.api\\productmanagement.dataaccess\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B79DC0-94B0-4800-A2BC-85FC05F8EC75}|ProductManagement.DataAccess\\ProductManagement.DataAccess.csproj|solutionrelative:productmanagement.dataaccess\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B79DC0-94B0-4800-A2BC-85FC05F8EC75}|ProductManagement.DataAccess\\ProductManagement.DataAccess.csproj|c:\\users\\monis\\source\\repos\\productmanagement.api\\productmanagement.dataaccess\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B79DC0-94B0-4800-A2BC-85FC05F8EC75}|ProductManagement.DataAccess\\ProductManagement.DataAccess.csproj|solutionrelative:productmanagement.dataaccess\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\monis\\source\\repos\\ProductManagement.Api\\ProductManagement.Api\\Models\\ProductManagementDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductManagement.Api\\Models\\ProductManagementDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\monis\\source\\repos\\ProductManagement.Api\\ProductManagement.Api\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductManagement.Api\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\monis\\source\\repos\\ProductManagement.Api\\ProductManagement.Api\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductManagement.Api\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T06:37:52.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductManagementDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\monis\\source\\repos\\ProductManagement.Api\\ProductManagement.DataAccess\\Models\\ProductManagementDbContext.cs",
+              "RelativeDocumentMoniker": "ProductManagement.DataAccess\\Models\\ProductManagementDbContext.cs",
+              "ToolTip": "C:\\Users\\monis\\source\\repos\\ProductManagement.Api\\ProductManagement.DataAccess\\Models\\ProductManagementDbContext.cs",
+              "RelativeToolTip": "ProductManagement.DataAccess\\Models\\ProductManagementDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T06:24:58.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\monis\\source\\repos\\ProductManagement.Api\\ProductManagement.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProductManagement.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\monis\\source\\repos\\ProductManagement.Api\\ProductManagement.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProductManagement.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-29T07:48:25.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\monis\\source\\repos\\ProductManagement.Api\\ProductManagement.Api\\Program.cs",
+              "RelativeDocumentMoniker": "ProductManagement.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\monis\\source\\repos\\ProductManagement.Api\\ProductManagement.Api\\Program.cs",
+              "RelativeToolTip": "ProductManagement.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T06:39:20.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\monis\\source\\repos\\ProductManagement.Api\\ProductManagement.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductManagement.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\monis\\source\\repos\\ProductManagement.Api\\ProductManagement.Api\\appsettings.json",
+              "RelativeToolTip": "ProductManagement.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-28T06:38:38.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\monis\\source\\repos\\ProductManagement.Api\\ProductManagement.Api\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "ProductManagement.Api\\DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\monis\\source\\repos\\ProductManagement.Api\\ProductManagement.Api\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "ProductManagement.Api\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T06:35:31.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\monis\\source\\repos\\ProductManagement.Api\\ProductManagement.Services\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "ProductManagement.Services\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\monis\\source\\repos\\ProductManagement.Api\\ProductManagement.Services\\Services\\ProductService.cs",
+              "RelativeToolTip": "ProductManagement.Services\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T06:32:55.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\monis\\source\\repos\\ProductManagement.Api\\ProductManagement.Services\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "ProductManagement.Services\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\monis\\source\\repos\\ProductManagement.Api\\ProductManagement.Services\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "ProductManagement.Services\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T06:31:43.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\monis\\source\\repos\\ProductManagement.Api\\ProductManagement.DataAccess\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductManagement.DataAccess\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\monis\\source\\repos\\ProductManagement.Api\\ProductManagement.DataAccess\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "ProductManagement.DataAccess\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T06:29:07.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\monis\\source\\repos\\ProductManagement.Api\\ProductManagement.DataAccess\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductManagement.DataAccess\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\monis\\source\\repos\\ProductManagement.Api\\ProductManagement.DataAccess\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "ProductManagement.DataAccess\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T06:26:58.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\monis\\source\\repos\\ProductManagement.Api\\ProductManagement.DataAccess\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductManagement.DataAccess\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\monis\\source\\repos\\ProductManagement.Api\\ProductManagement.DataAccess\\Models\\Product.cs",
+              "RelativeToolTip": "ProductManagement.DataAccess\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T06:25:19.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductManagementDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\monis\\source\\repos\\ProductManagement.Api\\ProductManagement.Api\\Models\\ProductManagementDbContext.cs",
+              "RelativeDocumentMoniker": "ProductManagement.Api\\Models\\ProductManagementDbContext.cs",
+              "ToolTip": "C:\\Users\\monis\\source\\repos\\ProductManagement.Api\\ProductManagement.Api\\Models\\ProductManagementDbContext.cs",
+              "RelativeToolTip": "ProductManagement.Api\\Models\\ProductManagementDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T06:23:33.139Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\monis\source\repos\ProductManagement.Api\ProductManagement.DataAccess\bin\Debug\net8.0\ProductManagement.DataAccess.deps.json
+C:\Users\monis\source\repos\ProductManagement.Api\ProductManagement.DataAccess\bin\Debug\net8.0\ProductManagement.DataAccess.runtimeconfig.json
+C:\Users\monis\source\repos\ProductManagement.Api\ProductManagement.DataAccess\bin\Debug\net8.0\ProductManagement.DataAccess.dll
+C:\Users\monis\source\repos\ProductManagement.Api\ProductManagement.DataAccess\bin\Debug\net8.0\ProductManagement.DataAccess.pdb
+C:\Users\monis\source\repos\ProductManagement.Api\ProductManagement.DataAccess\obj\Debug\net8.0\ProductManagement.DataAccess.csproj.AssemblyReference.cache
+C:\Users\monis\source\repos\ProductManagement.Api\ProductManagement.DataAccess\obj\Debug\net8.0\ProductManagement.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monis\source\repos\ProductManagement.Api\ProductManagement.DataAccess\obj\Debug\net8.0\ProductManagement.DataAccess.AssemblyInfoInputs.cache
+C:\Users\monis\source\repos\ProductManagement.Api\ProductManagement.DataAccess\obj\Debug\net8.0\ProductManagement.DataAccess.AssemblyInfo.cs
+C:\Users\monis\source\repos\ProductManagement.Api\ProductManagement.DataAccess\obj\Debug\net8.0\ProductManagement.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\monis\source\repos\ProductManagement.Api\ProductManagement.DataAccess\obj\Debug\net8.0\ProductManagement.DataAccess.dll
+C:\Users\monis\source\repos\ProductManagement.Api\ProductManagement.DataAccess\obj\Debug\net8.0\refint\ProductManagement.DataAccess.dll
+C:\Users\monis\source\repos\ProductManagement.Api\ProductManagement.DataAccess\obj\Debug\net8.0\ProductManagement.DataAccess.pdb
+C:\Users\monis\source\repos\ProductManagement.Api\ProductManagement.DataAccess\obj\Debug\net8.0\ProductManagement.DataAccess.genruntimeconfig.cache
+C:\Users\monis\source\repos\ProductManagement.Api\ProductManagement.DataAccess\obj\Debug\net8.0\ref\ProductManagement.DataAccess.dll

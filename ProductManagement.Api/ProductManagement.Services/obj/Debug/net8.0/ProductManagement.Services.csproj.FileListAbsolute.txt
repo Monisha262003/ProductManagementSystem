@@ -1,0 +1,17 @@
+C:\Users\monis\source\repos\ProductManagement.Api\ProductManagement.Services\bin\Debug\net8.0\ProductManagement.Services.deps.json
+C:\Users\monis\source\repos\ProductManagement.Api\ProductManagement.Services\bin\Debug\net8.0\ProductManagement.Services.runtimeconfig.json
+C:\Users\monis\source\repos\ProductManagement.Api\ProductManagement.Services\bin\Debug\net8.0\ProductManagement.Services.dll
+C:\Users\monis\source\repos\ProductManagement.Api\ProductManagement.Services\bin\Debug\net8.0\ProductManagement.Services.pdb
+C:\Users\monis\source\repos\ProductManagement.Api\ProductManagement.Services\bin\Debug\net8.0\ProductManagement.DataAccess.dll
+C:\Users\monis\source\repos\ProductManagement.Api\ProductManagement.Services\bin\Debug\net8.0\ProductManagement.DataAccess.pdb
+C:\Users\monis\source\repos\ProductManagement.Api\ProductManagement.Services\obj\Debug\net8.0\ProductManagement.Services.csproj.AssemblyReference.cache
+C:\Users\monis\source\repos\ProductManagement.Api\ProductManagement.Services\obj\Debug\net8.0\ProductManagement.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monis\source\repos\ProductManagement.Api\ProductManagement.Services\obj\Debug\net8.0\ProductManagement.Services.AssemblyInfoInputs.cache
+C:\Users\monis\source\repos\ProductManagement.Api\ProductManagement.Services\obj\Debug\net8.0\ProductManagement.Services.AssemblyInfo.cs
+C:\Users\monis\source\repos\ProductManagement.Api\ProductManagement.Services\obj\Debug\net8.0\ProductManagement.Services.csproj.CoreCompileInputs.cache
+C:\Users\monis\source\repos\ProductManagement.Api\ProductManagement.Services\obj\Debug\net8.0\ProductM.9B44A000.Up2Date
+C:\Users\monis\source\repos\ProductManagement.Api\ProductManagement.Services\obj\Debug\net8.0\ProductManagement.Services.dll
+C:\Users\monis\source\repos\ProductManagement.Api\ProductManagement.Services\obj\Debug\net8.0\refint\ProductManagement.Services.dll
+C:\Users\monis\source\repos\ProductManagement.Api\ProductManagement.Services\obj\Debug\net8.0\ProductManagement.Services.pdb
+C:\Users\monis\source\repos\ProductManagement.Api\ProductManagement.Services\obj\Debug\net8.0\ProductManagement.Services.genruntimeconfig.cache
+C:\Users\monis\source\repos\ProductManagement.Api\ProductManagement.Services\obj\Debug\net8.0\ref\ProductManagement.Services.dll
